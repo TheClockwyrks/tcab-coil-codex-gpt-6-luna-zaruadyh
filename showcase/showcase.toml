@@ -1,0 +1,7 @@
+[[media]]
+file = "combo.json.gz"
+name = "A live combo run"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
